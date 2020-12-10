@@ -15,7 +15,7 @@ spec:
     # retain even if pods terminate
     Retain
   nfs:
-    # NFS server's definition
+    # NFS server's definition 
     path: /mnt/flask
     server: 192.168.14.11
     readOnly: false
