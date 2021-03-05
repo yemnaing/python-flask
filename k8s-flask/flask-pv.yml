@@ -17,5 +17,5 @@ spec:
   nfs:
     # NFS server's definition 
     path: /mnt/flask
-    server: 192.168.14.11
+    server: 172.32.253.142
     readOnly: false
